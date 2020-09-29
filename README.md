@@ -1,2 +1,2 @@
 # cyberbullying_detection
-An automatic cyberbullying classifier
+A classifier for detecting cyberbullying instances in social media posts
